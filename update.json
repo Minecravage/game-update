@@ -1,7 +1,6 @@
 {
   "latest": {
-    "v": "1.1.0",
-    "dl-url": "https://monserveur.com/update2.zip"
-  },
-  "1.0.0": "https://monserveur.com/update.zip"
+    "v": "1.0.0",
+    "dl-url": "none"
+  }
 }
